@@ -10,5 +10,9 @@ resource "google_compute_instance" "default"{
   network_interface {
     network    = "default"
   }
+  #Update in-place resources whose arguments have changed.
+  labels = {
+    environment = "production" 
+  }
 
 }
