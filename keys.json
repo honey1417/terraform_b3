@@ -1,4 +1,0 @@
-create a svc account and create a key and
-place that key so that terraform has necessary 
-permissions to perform in gcp cloud 
-(but this method is not preferrable jst for practice)
