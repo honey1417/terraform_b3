@@ -11,7 +11,13 @@ variable "machine_type" {
 }
 
 variable "instance_count" {
-  description = "how man instances r needed"
-  default = 2
+  description = "how many instances r needed"
+  #default = 1
   type = number
+}
+
+variable "instance_name" {
+  description = "this is instance name"
+  default = "defaultname"
+  type = string
 }
