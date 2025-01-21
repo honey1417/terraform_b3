@@ -1,0 +1,4 @@
+create a svc account and create a key so that 
+terraform could perform actions in gcp cloud
+place that key here for practice only
+(in real this is not preferrable)
