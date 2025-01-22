@@ -11,7 +11,7 @@ We should be able to access the container form the VM ip address
 Use Variables, output block for input and output variables
 ```
 
-### Generate ssh keypair locally
+
 # Generate SSH Key Pair (Locally)
 ```
 add this in resource block of vm
