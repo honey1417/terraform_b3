@@ -11,3 +11,4 @@ output "public-ip-op" {
 #terraform workspace new <workspace-name>
 #terraform workspace delete <workspace-name>
 #terraform workspace list
+
