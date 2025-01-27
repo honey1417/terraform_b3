@@ -1,0 +1,5 @@
+generate a new SSH key pair:
+ssh-keygen -t rsa -b 2048 -f /home/tanmayeebasa28/.ssh/id_rsa
+
+Set Proper File Permissions:
+chmod 600 /home/tanmayeebasa28/.ssh/id_rsa
